@@ -1,6 +1,6 @@
 <h1 align="center">
 
-  Hyuk Lim (Hyuk9606)
+  Lim Hyuk (Hyuk9606)
 
 </h1>
   
